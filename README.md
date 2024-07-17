@@ -15,6 +15,8 @@ The steps to mark the events are:
   - **Forward**: press `t` on the keyboard, or click anywhere forward in the bottom slider
   - **Backward**: press `q` on the keyboard, or click anywhere backwards in the bottom slider. If you prefer to just move 1 second, please click the arrows at the beginning and end tops of the slider.
 
+![alt text](https://github.com/PridaLab/tagtool/blob/main/scripts/example_figure/tagtool_GUI.png)
+
 The GUI is presented calling the function tagtool. Its inputs are:
   - `LFP`: LFP signal to plot (timestamps x channels)
   - `file_name`: Full path and name of the file that will save tagged events (in seconds, if sf provided, timestamps if not)
